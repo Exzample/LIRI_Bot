@@ -20,6 +20,9 @@ switch (command) {
     case 'random':
         ripIt();
         break;
+    case 'bet':
+        //put get-lines() here//
+        break;
     default:
         console.log(chalk.yellow("Please prefix your search with: "))+ console.log(chalk.blue('1.' + 'concert')) + console.log(chalk.red('2.' + 'song')) + console.log(chalk.green('3.' + 'movie')) + console.log(chalk.yellow('or...')) + console.log(chalk.bold.magentaBright('4. ' + 'random'));
         break;
