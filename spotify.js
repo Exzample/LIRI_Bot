@@ -1,12 +1,8 @@
-require("dotenv").config();
+require("dotenv").config({path: 'gitignore/.env'});
 const fs = require("fs");
 const Spotify = require('node-spotify-api');
 const keys = require("./keys.js");
-// const spotify = new Spotify(keys.spotify);
-const spotify = new Spotify({
-    id: 'c2154006c1e84b018dd35ff50c9d3b7e',
-    secret: '01ab0775d7a14fa686c6e9f882c85cf7'
-});
+const spotify = new Spotify(keys.spotify);
 const LIRI = require("./liri.js");
 const chalk = require("chalk");
 

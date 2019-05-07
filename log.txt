@@ -22,4 +22,38 @@
         Song: Stairway to Heaven - Remaster
         Album: Led Zeppelin IV (Deluxe Edition)
         Preview: https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK
-        *********************************************
+        ******************************************************************************************
+        Artist: Eagles
+        Song: Hotel California - 2013 Remaster
+        Album: Hotel California (Remastered)
+        Preview: https://open.spotify.com/album/2widuo17g5CEC66IbzveRu
+        ******************************************************************************************
+            Band : Chris Stapleton,Margo Price
+            Name : PPL Center
+            Location : Allentown
+            Date : 07-09-2019
+            ******************************************************************************************
+            Title : The Matrix
+            Release Date : 1999
+            IMBD Rating : undefined
+            Rotten Tomatoes : undefined
+            Country of Origin : USA
+            Language : English
+            Plot : A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+            Actors : Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+            ******************************************************************************************
+        Artist: Led Zeppelin
+        Song: Stairway to Heaven - Remaster
+        Album: Led Zeppelin IV (Deluxe Edition)
+        Preview: https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK
+        ******************************************************************************************
+        Artist: Cory Asbury
+        Song: Endless Alleluia
+        Album: Reckless Love
+        Preview: https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB
+        ******************************************************************************************
+            Band : Smash Mouth
+            Name : Jazz/R&B Festival
+            Location : Natchitoches
+            Date : 05-11-2019
+            *********************************************
