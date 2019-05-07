@@ -48,4 +48,4 @@ pinnacle.getLeagues(options, (err, response, body) => {
 //   });
 // };
 
-// module.exports = movieThis;
+module.exports = getSports;
