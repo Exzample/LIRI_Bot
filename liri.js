@@ -8,19 +8,19 @@ let command = process.argv[2];
 let search = process.argv.splice(3).join(" ");
 
 switch (command) {
-    case 'concert-this':
+    case 'concert':
         concert(search);
         break;
-    case 'spotify-this-song':
+    case 'song':
         spotify(search);
         break;
-    case 'movie-this':
+    case 'movie':
         movie(search);
         break;
-    case 'do-what-it-says':
+    case 'random':
         ripIt();
         break;
     default:
-        console.log(chalk.yellow("Please prefix your search with + 'concert-this ' , 'spotify-this-song' , 'movie-this' or 'do-what-it-says' "));
+        console.log(chalk.yellow("Please prefix your search with: "))+ console.log(chalk.blue('1.' + 'concert')) + console.log(chalk.red('2.' + 'song')) + console.log(chalk.green('3.' + 'movie')) + console.log(chalk.yellow('or...')) + console.log(chalk.bold.magentaBright('4. ' + 'random'));
         break;
 }
