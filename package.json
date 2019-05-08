@@ -20,6 +20,7 @@
     "chalk": "^2.4.2",
     "dotenv": "^8.0.0",
     "fs": "0.0.1-security",
+    "json-odds-api": "^1.0.2",
     "moment": "^2.24.0",
     "node-spotify-api": "^1.1.1",
     "request": "^2.88.0"
